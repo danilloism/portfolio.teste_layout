@@ -1,3 +1,3 @@
 # Laytout created for training
-## GitPage
+## GitHub Page
 https://danilloism.github.io/portfolio.teste_layout/
