@@ -1,3 +1,3 @@
-# curso_layout
-
-Brincadeira usando Flutter para construção de um layout básico de 4 páginas.
+# Laytout created for training
+## GitPage
+https://danilloism.github.io/portfolio.teste_layout/
